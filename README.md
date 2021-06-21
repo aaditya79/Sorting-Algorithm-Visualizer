@@ -14,3 +14,8 @@ Maximum Range - Maximum > 100
 **All of the values above need to be integers. 
 
 3. Click Generate Data to create a randomized set of data and then Sort Data to sort given the specifications.
+
+## Demo of Quick Sort Algorithm
+
+https://user-images.githubusercontent.com/71707744/122697498-556a6f80-d1fa-11eb-9bc2-5a2f2fcf1ef9.mov
+
